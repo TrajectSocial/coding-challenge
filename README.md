@@ -62,7 +62,7 @@ If you're putting more time on the project than required, please add the `[overt
 
 We'd like you to create a simple expert directory search tool. The application should fulfill the following requirements:
 
-* A member can be created using their name and a personal website address.
+* A member can be created using their name and a personal website address (use any public website URL as the personal website address for your tests).
 * When a member is created, all the heading (H1 to H3) values are pulled in from the website to that members' profile.
 * The website URL is shortened using [bit.ly](https://bit.ly).
 * After the member has been added, a friendship can be defined with other existing members.
